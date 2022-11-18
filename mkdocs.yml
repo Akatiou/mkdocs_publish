@@ -1,8 +1,8 @@
 site_name: AissataSite
 
-site_url: https://oa-formation.github.io/mkdocs_publish/
+site_url: https://akatiou.github.io/mkdocs_publish/
 repo_url: https://github.com/Akatiou/mkdocs-publish
-repo_name: mkdocs_companygram
+repo_name: mkdocs_AissataSite 
 
 theme:
   name: material
